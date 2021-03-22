@@ -34,10 +34,10 @@ https://sanketkumaronline.github.io/Belly-Button-Biodiversity/
 
     `<div class="col-md-12 jumbotron text-center" style="background-image: url('Images/banner3.jpg');background-size: cover;">`
 
-2. Background color added to <body> tag:
+2. Background color added to `<body>` tag:
 
     `<body style="background-color: lavender;">`
 
-3. Changed the font family and font colour of the second sentence in Jumbotron.
+3. Changed the font family and font colour of the second sentence in Jumbotron:
     
     `<p class="text-danger" style="font-family:Georgia, 'Times New Roman', Times, serif;"><b>Use the interactive charts below to explore the dataset</b></p>`
