@@ -118,6 +118,8 @@ function buildCharts(sample) {
     // 3. Use Plotly to plot the data with the layout.
     Plotly.newPlot('bubble', bubbleData, bubbleLayout);
 
+    // D3: Gauge Chart
+
     // 1. Filter the metadata array for the ID number passed into function 
     var sampleMeta = data.metadata.filter(sampleObj => sampleObj.id == sample);
     // 2. Variable that holds the first sample
